@@ -1,0 +1,30 @@
+name = AUTODESIGN 
+description = A Theme from the Consolopage
+core = 7.x
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[navigation_secondary]     = 'Navigation secondary'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[footer]         = 'Footer'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Stylesheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = 'css/reset.css'
+stylesheets[all][] = 'css/style.css'
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Scripts
+;;;;;;;;;;;;;;;;;;;;;
+
+scripts[] = 'js/form.js'
