@@ -338,12 +338,13 @@ input, textarea { }
     height: auto !important;
     margin-top: 0;
     min-height: 266px;
-    padding: 20px;
-    width: 516px;
     background: url("../images/uslidebg.gif") repeat-x scroll left top #AC0A0A;
     border-bottom: 4px solid #C31D1D;
     color: #EDCBCB;
     float: left;    
+}
+#main-content-holder .pg-main-column .inside {
+    padding: 20px;    
 }
 #main-content-holder .panels-flexible-5 .panels-flexible-column-inside {
     padding-left: 0;
